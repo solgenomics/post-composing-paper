@@ -33,4 +33,4 @@ colnames(trait_freq)[2] <- "freq"
 trait_freq <- trait_freq[order(-trait_freq$freq),]
 
 # Printing top 10 more frequent root traits
-trait_freq[, 10]
+trait_freq[1:10,]
