@@ -20,3 +20,17 @@ plot(1:k.max, wss,
 #From the plot I choose 3 clusters
 cl <- kmeans(myDF$total, 3)
 cl$centers #Centroid values
+
+
+## This part is to find out which trait root is more frequent in post-composed trait
+## Use the file from the second query
+library(stringr)
+myDF2 <- read.csv("traits_frequency_ groupA.csv", header = T, sep = ",")
+myDF2$root_trait <- str_extract(myDF2$trait_name, "[^|]+")
+trait_freq <- as.data.frame(tapply(myDF2$appearance_count,myDF2$root_trait, sum))
+trait_freq <- tibble::rownames_to_column(trait_freq, "traits")
+colnames(trait_freq)[2] <- "freq"
+trait_freq <- trait_freq[order(-trait_freq$freq),]
+
+# Printing top 10 more frequent root traits
+trait_freq[, 10]
