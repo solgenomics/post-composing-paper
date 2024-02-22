@@ -1,0 +1,34 @@
+object,type,subject,name
+protein_binding_site,contains,CHiP_seq_region,sequence
+virus severity estimation in 1-5|month 1,contains,month 1,cxgn_time_ontology
+Emerged plants counting/plot|month 2,contains,month 2,cxgn_time_ontology
+Virus incidence computation %|month 2,contains,month 2,cxgn_time_ontology
+yam anthracnose disease incidence computation %|month 2,contains,month 2,cxgn_time_ontology
+yam anthracnose disease severity estimation in 1-5|month 2,contains,month 2,cxgn_time_ontology
+virus severity estimation in 1-5|month 2,contains,month 2,cxgn_time_ontology
+yam anthracnose disease severity estimation in 1-5|month 3,contains,month 3,cxgn_time_ontology
+virus severity estimation in 1-5|month 3,contains,month 3,cxgn_time_ontology
+Virus incidence computation %|month 3,contains,month 3,cxgn_time_ontology
+yam anthracnose disease incidence computation %|month 3,contains,month 3,cxgn_time_ontology
+Emerged plants counting/plot|month 3,contains,month 3,cxgn_time_ontology
+virus severity estimation in 1-5|month 4,contains,month 4,cxgn_time_ontology
+Virus incidence computation %|month 4,contains,month 4,cxgn_time_ontology
+yam anthracnose disease incidence computation %|month 4,contains,month 4,cxgn_time_ontology
+yam anthracnose disease severity estimation in 1-5|month 4,contains,month 4,cxgn_time_ontology
+Emerged plants counting/plot|month 4,contains,month 4,cxgn_time_ontology
+yam anthracnose disease severity estimation in 1-5|month 5,contains,month 5,cxgn_time_ontology
+virus severity estimation in 1-5|month 5,contains,month 5,cxgn_time_ontology
+yam anthracnose disease incidence computation %|month 5,contains,month 5,cxgn_time_ontology
+Emerged plants counting/plot|month 5,contains,month 5,cxgn_time_ontology
+Virus incidence computation %|month 5,contains,month 5,cxgn_time_ontology
+virus severity estimation in 1-5|month 6,contains,month 6,cxgn_time_ontology
+Virus incidence computation %|month 6,contains,month 6,cxgn_time_ontology
+Emerged plants counting/plot|month 6,contains,month 6,cxgn_time_ontology
+yam anthracnose disease severity estimation in 1-5|month 6,contains,month 6,cxgn_time_ontology
+yam anthracnose disease incidence computation %|month 6,contains,month 6,cxgn_time_ontology
+yam anthracnose disease incidence computation %|week 12,contains,week 12,cxgn_time_ontology
+yam anthracnose disease incidence computation %|week 14,contains,week 14,cxgn_time_ontology
+yam anthracnose disease incidence computation %|week 16,contains,week 16,cxgn_time_ontology
+yam anthracnose disease incidence computation %|week 18,contains,week 18,cxgn_time_ontology
+yam anthracnose disease incidence computation %|week 20,contains,week 20,cxgn_time_ontology
+yam anthracnose disease incidence computation %|week 22,contains,week 22,cxgn_time_ontology
