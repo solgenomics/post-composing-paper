@@ -1,0 +1,493 @@
+object,type,subject,name
+Change in weight after boiling computation percentage|minute 30|after harvest,contains,after harvest,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after harvest,contains,after harvest,cxgn_time_ontology
+dry matter content by specific gravity method|month 3|boiling time 10 minutes|after harvest,contains,after harvest,cxgn_time_ontology
+Post-harvest physiological deterioration|day 3|after harvest,contains,after harvest,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after harvest,contains,after harvest,cxgn_time_ontology
+Post-harvest physiological deterioration|day 5|after harvest,contains,after harvest,cxgn_time_ontology
+Change in weight after boiling|boiling time 30 minutes|after harvest,contains,after harvest,cxgn_time_ontology
+Post-harvest physiological deterioration|day 7|after harvest,contains,after harvest,cxgn_time_ontology
+Change in weight after boiling|boiling time 20 minutes|after harvest,contains,after harvest,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after harvest,contains,after harvest,cxgn_time_ontology
+Change in weight after boiling computation percentage|boiling time 20 minutes|after harvest,contains,after harvest,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after planting,contains,after planting,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after planting,contains,after planting,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after planting,contains,after planting,cxgn_time_ontology
+Cassava mosaic disease severity|at harvesting,contains,at harvesting,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|at harvesting,contains,at harvesting,cxgn_time_ontology
+thrips severity : visual 1-5|at harvesting,contains,at harvesting,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|at harvesting,contains,at harvesting,cxgn_time_ontology
+Marketable root weight|proximal root section|dried root|at harvesting,contains,at harvesting,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|at harvesting,contains,at harvesting,cxgn_time_ontology
+dry matter content percentage|month 9|axial root section|boiled root,contains,axial root section,cxgn_plant_section
+time of boiling estimation minute|month 11|boiled root,contains,boiled root,cxgn_plant_treatment
+time of boiling estimation minute|month 13|boiled root,contains,boiled root,cxgn_plant_treatment
+time of boiling estimation minute|month 12|boiled root,contains,boiled root,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiled root,contains,boiled root,cxgn_plant_treatment
+textural characteristic gradient extrusion g/mm|month 9|boiled root,contains,boiled root,cxgn_plant_treatment
+time of boiling estimation minute|month 10|boiled root,contains,boiled root,cxgn_plant_treatment
+time of boiling estimation minute|month 9|boiled root,contains,boiled root,cxgn_plant_treatment
+dry matter content percentage|month 8|boiled root,contains,boiled root,cxgn_plant_treatment
+time of boiling estimation minute|month 8|boiled root,contains,boiled root,cxgn_plant_treatment
+dry matter content percentage|month 9|axial root section|boiled root,contains,boiled root,cxgn_plant_treatment
+dry matter content percentage|month 10|boiled root,contains,boiled root,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiling time 10 minutes,contains,boiling time 10 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|boiling time 10 minutes,contains,boiling time 10 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|boiling time 10 minutes,contains,boiling time 10 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|boiling time 10 minutes,contains,boiling time 10 minutes,cxgn_plant_treatment
+dry matter content by specific gravity method|month 3|boiling time 10 minutes|after harvest,contains,boiling time 10 minutes,cxgn_plant_treatment
+textural characteristic distance at max force extrusion mm|month 9|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic max force extrusion g|month 9|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic max force extrusion g|month 11|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic max force extrusion g|month 10|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic linear distance extrusion mm|month 9|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic linear distance extrusion mm|month 11|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic linear distance extrusion mm|month 10|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic gradient extrusion g/mm|month 9|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic gradient extrusion g/mm|month 11|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic gradient extrusion g/mm|month 10|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic end force extrusion g|month 9|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic end force extrusion g|month 11|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic end force extrusion g|month 10|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic distance at max force extrusion mm|month 11|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic distance at max force extrusion mm|month 10|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic area under curve extrusion gmm|month 9|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic area under curve extrusion gmm|month 11|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+textural characteristic area under curve extrusion gmm|month 10|boiling time 18 minutes,contains,boiling time 18 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiling time 20 minutes,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|boiling time 20 minutes,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling|boiling time 20 minutes|after harvest,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|boiling time 20 minutes|after harvest,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 12|boiling time 20 minutes,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|boiling time 20 minutes,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|boiling time 20 minutes,contains,boiling time 20 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+dry matter content percentage|month 11|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 12|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+Change in weight after boiling|boiling time 30 minutes|after harvest,contains,boiling time 30 minutes,cxgn_plant_treatment
+dry matter content percentage|month 9|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+dry matter content percentage|month 10|boiling time 30 minutes,contains,boiling time 30 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|boiling time 40 minutes,contains,boiling time 40 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|boiling time 40 minutes,contains,boiling time 40 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|boiling time 40 minutes,contains,boiling time 40 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiling time 40 minutes,contains,boiling time 40 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiling time 50 minutes,contains,boiling time 50 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|boiling time 50 minutes,contains,boiling time 50 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|boiling time 50 minutes,contains,boiling time 50 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|boiling time 50 minutes,contains,boiling time 50 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|boiling time 60 minutes,contains,boiling time 60 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|boiling time 60 minutes,contains,boiling time 60 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|boiling time 60 minutes,contains,boiling time 60 minutes,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|boiling time 60 minutes,contains,boiling time 60 minutes,cxgn_plant_treatment
+protein_binding_site,contains,CHiP_seq_region,sequence
+Harvesting|date of,contains,date of,cxgn_time_ontology
+Planting|date of,contains,date of,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|date of,contains,date of,cxgn_time_ontology
+ash content in percentage|day 1|leaf from hardwood area (lower woody stem portion)|grated raw root,contains,day 1,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after planting,contains,day 15,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after harvest,contains,day 15,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|at harvesting,contains,day 15,cxgn_time_ontology
+Post-harvest physiological deterioration|day 3|after harvest,contains,day 3,cxgn_time_ontology
+initial vigor assessment 1-7|day 45,contains,day 45,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10 scale measured 8 months after planting.|day 5,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|date of,contains,day 5,cxgn_time_ontology
+'post-harvest physiological deterioration variable 0-10 month 10'|day 5,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10 scale measured 11 months after planting.|day 5,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10 scale measured 12 months after planting.|day 5,contains,day 5,cxgn_time_ontology
+Post-harvest physiological deterioration|day 5|after harvest,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after harvest,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after planting,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|at harvesting,contains,day 5,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|at harvesting,contains,day 7,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after harvest,contains,day 7,cxgn_time_ontology
+Post-harvest physiological deterioration|day 7|after harvest,contains,day 7,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root,contains,day 7,cxgn_time_ontology
+'post-harvest physiological deterioration variable 0-10 month 10'|day 7,contains,day 7,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after planting,contains,day 7,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10 scale measured 12 months after planting.|day 7,contains,day 7,cxgn_time_ontology
+Marketable root weight|proximal root section|dried root|at harvesting,contains,dried root,cxgn_plant_treatment
+ash content in percentage|day 1|leaf from hardwood area (lower woody stem portion)|grated raw root,contains,grated raw root,cxgn_plant_treatment
+ash content in percentage|day 1|leaf from hardwood area (lower woody stem portion)|grated raw root,contains,leaf from hardwood area (lower woody stem portion),cxgn_plant_section
+dry matter content percentage|month 8|mashed raw root,contains,mashed raw root,cxgn_plant_treatment
+dry matter content percentage|month 9|mashed raw root,contains,mashed raw root,cxgn_plant_treatment
+dry matter content percentage|month 12|mashed raw root,contains,mashed raw root,cxgn_plant_treatment
+dry matter content percentage|month 10|mashed raw root,contains,mashed raw root,cxgn_plant_treatment
+dry matter content percentage|month 11|mashed raw root,contains,mashed raw root,cxgn_plant_treatment
+Softness of boiled cassava roots in newtons|minute 15,contains,minute 15,cxgn_time_ontology
+Softness of boiled cassava roots in newtons|minute 30,contains,minute 30,cxgn_time_ontology
+Change in weight after boiling computation percentage|minute 30|after harvest,contains,minute 30,cxgn_time_ontology
+Softness of boiled cassava roots in newtons|minute 45,contains,minute 45,cxgn_time_ontology
+Softness of boiled cassava roots in newtons|minute 60,contains,minute 60,cxgn_time_ontology
+abscisic acid content of leaf ug/g|month 1,contains,month 1,cxgn_time_ontology
+cassava bacterial blight incidence 3-month evaluation|month 1,contains,month 1,cxgn_time_ontology
+abiotic stress trait|month 1,contains,month 1,cxgn_time_ontology
+initial plant vigor assessment 1-5|month 1,contains,month 1,cxgn_time_ontology
+dry matter content percentage|month 10|boiled root,contains,month 10,cxgn_time_ontology
+dry matter content percentage|month 10|raw root,contains,month 10,cxgn_time_ontology
+time of boiling estimation minute|month 10|boiled root,contains,month 10,cxgn_time_ontology
+number of flowering stalks per branch level counting|month 10,contains,month 10,cxgn_time_ontology
+amylopectin content ug/g in percentage|month 10,contains,month 10,cxgn_time_ontology
+hydrogen cyanide ug/g wet basis|month 10,contains,month 10,cxgn_time_ontology
+beta carotene content ug/g NIRS 400-2500 nm|month 10,contains,month 10,cxgn_time_ontology
+Total carotenes ug/g NIRS 400-2500 nm|month 10,contains,month 10,cxgn_time_ontology
+Total carotenes HPLC ug/g|month 10,contains,month 10,cxgn_time_ontology
+beta carotene content ug/g|month 10,contains,month 10,cxgn_time_ontology
+textural characteristic gradient extrusion g/mm|month 10|boiling time 18 minutes,contains,month 10,cxgn_time_ontology
+textural characteristic end force extrusion g|month 10|boiling time 18 minutes,contains,month 10,cxgn_time_ontology
+dry matter content percentage|month 10|mashed raw root,contains,month 10,cxgn_time_ontology
+textural characteristic distance at max force extrusion mm|month 10|boiling time 18 minutes,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|raw root,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|boiling time 50 minutes,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|boiling time 60 minutes,contains,month 10,cxgn_time_ontology
+textural characteristic area under curve extrusion gmm|month 10|boiling time 18 minutes,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|boiling time 40 minutes,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|boiling time 30 minutes,contains,month 10,cxgn_time_ontology
+textural characteristic linear distance extrusion mm|month 10|boiling time 18 minutes,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|boiling time 20 minutes,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 10|boiling time 10 minutes,contains,month 10,cxgn_time_ontology
+textural characteristic max force extrusion g|month 10|boiling time 18 minutes,contains,month 10,cxgn_time_ontology
+cassava mosaic disease severity|month 10,contains,month 10,cxgn_time_ontology
+abscisic acid content of leaf ug/g|month 10,contains,month 10,cxgn_time_ontology
+dry matter content percentage|month 10|boiling time 30 minutes,contains,month 10,cxgn_time_ontology
+abiotic stress trait|month 10,contains,month 10,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|boiling time 20 minutes,contains,month 11,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|boiling time 30 minutes,contains,month 11,cxgn_time_ontology
+textural characteristic end force extrusion g|month 11|boiling time 18 minutes,contains,month 11,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|boiling time 40 minutes,contains,month 11,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|boiling time 50 minutes,contains,month 11,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|boiling time 60 minutes,contains,month 11,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|raw root,contains,month 11,cxgn_time_ontology
+textural characteristic distance at max force extrusion mm|month 11|boiling time 18 minutes,contains,month 11,cxgn_time_ontology
+dry matter content percentage|month 11|mashed raw root,contains,month 11,cxgn_time_ontology
+textural characteristic area under curve extrusion gmm|month 11|boiling time 18 minutes,contains,month 11,cxgn_time_ontology
+beta carotene content ug/g|month 11,contains,month 11,cxgn_time_ontology
+Total carotenes HPLC ug/g|month 11,contains,month 11,cxgn_time_ontology
+Total carotenes ug/g NIRS 400-2500 nm|month 11,contains,month 11,cxgn_time_ontology
+beta carotene content ug/g NIRS 400-2500 nm|month 11,contains,month 11,cxgn_time_ontology
+hydrogen cyanide ug/g wet basis|month 11,contains,month 11,cxgn_time_ontology
+time of boiling estimation minute|month 11|boiled root,contains,month 11,cxgn_time_ontology
+dry matter content percentage|month 11|raw root,contains,month 11,cxgn_time_ontology
+dry matter content percentage|month 11|boiling time 30 minutes,contains,month 11,cxgn_time_ontology
+abiotic stress trait|month 11,contains,month 11,cxgn_time_ontology
+abscisic acid content of leaf ug/g|month 11,contains,month 11,cxgn_time_ontology
+textural characteristic max force extrusion g|month 11|boiling time 18 minutes,contains,month 11,cxgn_time_ontology
+textural characteristic linear distance extrusion mm|month 11|boiling time 18 minutes,contains,month 11,cxgn_time_ontology
+textural characteristic gradient extrusion g/mm|month 11|boiling time 18 minutes,contains,month 11,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 11|boiling time 10 minutes,contains,month 11,cxgn_time_ontology
+dry matter content percentage|month 12|mashed raw root,contains,month 12,cxgn_time_ontology
+anthocyanin pigmentation visual rating 0-3|month 12,contains,month 12,cxgn_time_ontology
+time of boiling estimation minute|month 12|boiled root,contains,month 12,cxgn_time_ontology
+Bemesia tabaci adult by counting|month 12,contains,month 12,cxgn_time_ontology
+Total carotenes HPLC ug/g|month 12,contains,month 12,cxgn_time_ontology
+beta carotene content ug/g|month 12,contains,month 12,cxgn_time_ontology
+Bemesia tabaci nymphs severity : visual 1-5|month 12,contains,month 12,cxgn_time_ontology
+cassava rust disease severity evaluation|month 12,contains,month 12,cxgn_time_ontology
+plant height measurement in cm|month 12,contains,month 12,cxgn_time_ontology
+plant height without leaf|month 12,contains,month 12,cxgn_time_ontology
+Total carotenes ug/g NIRS 400-2500 nm|month 12,contains,month 12,cxgn_time_ontology
+Bemesia tabaci nymphs yellow : counting|month 12,contains,month 12,cxgn_time_ontology
+beta carotene content ug/g NIRS 400-2500 nm|month 12,contains,month 12,cxgn_time_ontology
+abscisic acid content of leaf ug/g|month 12,contains,month 12,cxgn_time_ontology
+abiotic stress trait|month 12,contains,month 12,cxgn_time_ontology
+hydrogen cyanide ug/g wet basis|month 12,contains,month 12,cxgn_time_ontology
+initial vigor assessment 1-7|month 12,contains,month 12,cxgn_time_ontology
+Bemesia tabaci nymphs black : counting|month 12,contains,month 12,cxgn_time_ontology
+Bemesia tabaci nymphs by counting|month 12,contains,month 12,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 12|boiling time 20 minutes,contains,month 12,cxgn_time_ontology
+fresh root yield|month 12,contains,month 12,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 12|boiling time 30 minutes,contains,month 12,cxgn_time_ontology
+time of boiling estimation minute|month 13|boiled root,contains,month 13,cxgn_time_ontology
+Cassava anthracnose disease severity|month 16,contains,month 16,cxgn_time_ontology
+Cassava brown streak disease root severity|month 2,contains,month 2,cxgn_time_ontology
+Cassava bacterial blight severity|month 2,contains,month 2,cxgn_time_ontology
+cassava mealy bug severity by visual rating 1-5|month 2,contains,month 2,cxgn_time_ontology
+cassava green mite severity first evaluation|month 2,contains,month 2,cxgn_time_ontology
+Cassava green mite severity|month 2,contains,month 2,cxgn_time_ontology
+cassava green mite incidence first evaluation|month 2,contains,month 2,cxgn_time_ontology
+abiotic stress trait|month 2,contains,month 2,cxgn_time_ontology
+Cassava mosaic disease severity|month 2,contains,month 2,cxgn_time_ontology
+bemisia tabaci adult by counting|month 2,contains,month 2,cxgn_time_ontology
+bemisia tabaci nymphs yellow : counting|month 2,contains,month 2,cxgn_time_ontology
+bemesia tabaci adult by counting|month 3,contains,month 3,cxgn_time_ontology
+sooty mould : visual 1-5|month 3,contains,month 3,cxgn_time_ontology
+cassava green mite severity first evaluation|month 3,contains,month 3,cxgn_time_ontology
+bemesia tabaci nymphs black : counting|month 3,contains,month 3,cxgn_time_ontology
+dry matter content by specific gravity method|month 3|boiling time 10 minutes|after harvest,contains,month 3,cxgn_time_ontology
+number of seed sown counting|month 3,contains,month 3,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 3,contains,month 3,cxgn_time_ontology
+female flower number counting on all levels|month 3,contains,month 3,cxgn_time_ontology
+number of fruits counting|month 3,contains,month 3,cxgn_time_ontology
+hairiness visual observation 1-5|month 3,contains,month 3,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|month 3,contains,month 3,cxgn_time_ontology
+bemesia tabaci nymphs yellow : counting|month 3,contains,month 3,cxgn_time_ontology
+Cassava mosaic disease severity|month 3,contains,month 3,cxgn_time_ontology
+cassava green mite incidence first evaluation|month 3,contains,month 3,cxgn_time_ontology
+bemesia tabaci nymphs severity : visual 1-5|month 3,contains,month 3,cxgn_time_ontology
+bemesia tabaci nymphs by counting|month 3,contains,month 3,cxgn_time_ontology
+Cassava green mite severity|month 3,contains,month 3,cxgn_time_ontology
+abiotic stress trait|month 3,contains,month 3,cxgn_time_ontology
+Cassava bacterial blight severity|month 3,contains,month 3,cxgn_time_ontology
+Typhlodromalus aripo : visual 1/0|month 3,contains,month 3,cxgn_time_ontology
+plant architecture visual rating 1-5|month 3,contains,month 3,cxgn_time_ontology
+cassava mealy bug severity by visual rating 1-5|month 3,contains,month 3,cxgn_time_ontology
+Cassava brown streak disease root severity|month 3,contains,month 3,cxgn_time_ontology
+plant height measurement in cm|month 3,contains,month 3,cxgn_time_ontology
+male flower number counting on all levels|month 3,contains,month 3,cxgn_time_ontology
+plant height measurement in cm|month 4,contains,month 4,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 4,contains,month 4,cxgn_time_ontology
+bemisia tabaci adult by counting|month 4,contains,month 4,cxgn_time_ontology
+Cassava brown streak disease root severity|month 4,contains,month 4,cxgn_time_ontology
+lodged plants estimation 1-3|month 4,contains,month 4,cxgn_time_ontology
+bemisia tabaci nymphs by counting|month 4,contains,month 4,cxgn_time_ontology
+number of fruits counting|month 4,contains,month 4,cxgn_time_ontology
+sooty mould : visual 1-5|month 4,contains,month 4,cxgn_time_ontology
+flowering ability visual assessment 0-3|month 4,contains,month 4,cxgn_time_ontology
+cassava green mite severity second evaluation|month 4,contains,month 4,cxgn_time_ontology
+Cassava mosaic disease severity|month 4,contains,month 4,cxgn_time_ontology
+leaf lobe length measurement in cm|month 4,contains,month 4,cxgn_time_ontology
+cassava mealy bug severity by visual rating 1-5|month 4,contains,month 4,cxgn_time_ontology
+Cassava bacterial blight severity|month 4,contains,month 4,cxgn_time_ontology
+initial plant vigor assessment 1-5|month 4,contains,month 4,cxgn_time_ontology
+female flower evaluation visual rating|month 4,contains,month 4,cxgn_time_ontology
+leaf lobe width measurement in cm|month 4,contains,month 4,cxgn_time_ontology
+male flower number counting on all levels|month 4,contains,month 4,cxgn_time_ontology
+number of seed sown counting|month 4,contains,month 4,cxgn_time_ontology
+plant architecture visual rating 1-5|month 4,contains,month 4,cxgn_time_ontology
+male flower number counting|month 4,contains,month 4,cxgn_time_ontology
+cassava green mite severity first evaluation|month 4,contains,month 4,cxgn_time_ontology
+bemisia tabaci nymphs yellow : counting|month 4,contains,month 4,cxgn_time_ontology
+Cassava green mite severity|month 4,contains,month 4,cxgn_time_ontology
+staygreen visual scale 1-3|month 4,contains,month 4,cxgn_time_ontology
+bemisia tabaci nymphs severity : visual 1-5|month 4,contains,month 4,cxgn_time_ontology
+sprout count discrete counting|month 4,contains,month 4,cxgn_time_ontology
+stem diameter measurement in cm|month 4,contains,month 4,cxgn_time_ontology
+branching level counting|month 4,contains,month 4,cxgn_time_ontology
+cassava green mite incidence first evaluation|month 4,contains,month 4,cxgn_time_ontology
+flowering ability visual assessment 0-3|month 5,contains,month 5,cxgn_time_ontology
+leaf lobe length measurement in cm|month 5,contains,month 5,cxgn_time_ontology
+stem diameter measurement in cm|month 5,contains,month 5,cxgn_time_ontology
+initial plant vigor assessment 1-5|month 5,contains,month 5,cxgn_time_ontology
+staygreen visual scale 1-3|month 5,contains,month 5,cxgn_time_ontology
+plant architecture visual rating 1-5|month 5,contains,month 5,cxgn_time_ontology
+cassava green mite incidence first evaluation|month 5,contains,month 5,cxgn_time_ontology
+cassava green mite severity first evaluation|month 5,contains,month 5,cxgn_time_ontology
+cassava green mite incidence second evaluation|month 5,contains,month 5,cxgn_time_ontology
+cassava green mite severity second evaluation|month 5,contains,month 5,cxgn_time_ontology
+sprout count discrete counting|month 5,contains,month 5,cxgn_time_ontology
+branching level counting|month 5,contains,month 5,cxgn_time_ontology
+leaf lobe width measurement in cm|month 5,contains,month 5,cxgn_time_ontology
+plant height measurement in cm|month 5,contains,month 5,cxgn_time_ontology
+bemisia tabaci adult by counting|month 5,contains,month 5,cxgn_time_ontology
+bemisia tabaci nymphs by counting|month 5,contains,month 5,cxgn_time_ontology
+bemisia tabaci nymphs severity : visual 1-5|month 5,contains,month 5,cxgn_time_ontology
+sooty mould : visual 1-5|month 5,contains,month 5,cxgn_time_ontology
+Cassava mosaic disease severity|month 5,contains,month 5,cxgn_time_ontology
+Cassava bacterial blight severity|month 5,contains,month 5,cxgn_time_ontology
+Cassava anthracnose disease severity|month 5,contains,month 5,cxgn_time_ontology
+number of seed sown counting|month 5,contains,month 5,cxgn_time_ontology
+number of fruits counting|month 5,contains,month 5,cxgn_time_ontology
+female flower evaluation visual rating|month 5,contains,month 5,cxgn_time_ontology
+male flower number counting on all levels|month 5,contains,month 5,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 5,contains,month 5,cxgn_time_ontology
+Red spider mite severity|month 5,contains,month 5,cxgn_time_ontology
+male flower number counting|month 5,contains,month 5,cxgn_time_ontology
+red spider mite severity : visual 1-5|month 5,contains,month 5,cxgn_time_ontology
+bemisia tabaci nymphs yellow : counting|month 5,contains,month 5,cxgn_time_ontology
+Cassava brown streak disease root severity|month 5,contains,month 5,cxgn_time_ontology
+Cassava green mite severity|month 5,contains,month 5,cxgn_time_ontology
+cassava mealy bug severity by visual rating 1-5|month 5,contains,month 5,cxgn_time_ontology
+cassava green mite severity first evaluation|month 6,contains,month 6,cxgn_time_ontology
+male flower number counting|month 6,contains,month 6,cxgn_time_ontology
+flowering ability visual assessment 0-3|month 6,contains,month 6,cxgn_time_ontology
+bemesia tabaci nymphs severity : visual 1-5|month 6,contains,month 6,cxgn_time_ontology
+female flower evaluation visual rating|month 6,contains,month 6,cxgn_time_ontology
+plant architecture visual rating 1-5|month 6,contains,month 6,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 6,contains,month 6,cxgn_time_ontology
+Cassava green mite severity|month 6,contains,month 6,cxgn_time_ontology
+cassava green mite incidence second evaluation|month 6,contains,month 6,cxgn_time_ontology
+male flower number counting on all levels|month 6,contains,month 6,cxgn_time_ontology
+first apical branch height measurement in cm|month 6,contains,month 6,cxgn_time_ontology
+bemesia tabaci nymphs yellow : counting|month 6,contains,month 6,cxgn_time_ontology
+Cassava bacterial blight severity|month 6,contains,month 6,cxgn_time_ontology
+Typhlodromalus aripo : visual 1/0|month 6,contains,month 6,cxgn_time_ontology
+bemesia tabaci adult by counting|month 6,contains,month 6,cxgn_time_ontology
+initial plant vigor assessment 1-5|month 6,contains,month 6,cxgn_time_ontology
+plant height measurement in cm|month 6,contains,month 6,cxgn_time_ontology
+cassava mealy bug severity by visual rating 1-5|month 6,contains,month 6,cxgn_time_ontology
+bemesia tabaci nymphs black : counting|month 6,contains,month 6,cxgn_time_ontology
+Cassava brown streak disease root severity|month 6,contains,month 6,cxgn_time_ontology
+hairiness visual observation 1-5|month 6,contains,month 6,cxgn_time_ontology
+Cassava mosaic disease severity|month 6,contains,month 6,cxgn_time_ontology
+bemesia tabaci nymphs by counting|month 6,contains,month 6,cxgn_time_ontology
+branching level counting|month 6,contains,month 6,cxgn_time_ontology
+sprout count discrete counting|month 6,contains,month 6,cxgn_time_ontology
+leaf lobe width measurement in cm|month 6,contains,month 6,cxgn_time_ontology
+stem diameter measurement in cm|month 6,contains,month 6,cxgn_time_ontology
+cassava green mite incidence first evaluation|month 6,contains,month 6,cxgn_time_ontology
+staygreen visual scale 1-3|month 6,contains,month 6,cxgn_time_ontology
+number of seed sown counting|month 6,contains,month 6,cxgn_time_ontology
+cassava green mite severity second evaluation|month 6,contains,month 6,cxgn_time_ontology
+lodged plants estimation 1-3|month 6,contains,month 6,cxgn_time_ontology
+number of fruits counting|month 6,contains,month 6,cxgn_time_ontology
+leaf lobe length measurement in cm|month 6,contains,month 6,cxgn_time_ontology
+abiotic stress trait|month 7,contains,month 7,cxgn_time_ontology
+number of fruits counting|month 7,contains,month 7,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 7,contains,month 7,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|month 7,contains,month 7,cxgn_time_ontology
+dry matter content percentage|month 7,contains,month 7,cxgn_time_ontology
+male flower number counting|month 7,contains,month 7,cxgn_time_ontology
+Cassava bacterial blight severity|month 7,contains,month 7,cxgn_time_ontology
+number of seed sown counting|month 7,contains,month 7,cxgn_time_ontology
+female flower evaluation visual rating|month 7,contains,month 7,cxgn_time_ontology
+dry matter content percentage|month 7|raw root,contains,month 7,cxgn_time_ontology
+Cassava mosaic disease severity|month 7,contains,month 7,cxgn_time_ontology
+male flower number counting on all levels|month 7,contains,month 7,cxgn_time_ontology
+Cassava anthracnose disease severity|month 7,contains,month 7,cxgn_time_ontology
+red spider mite severity : visual 1-5|month 7,contains,month 7,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 8,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|boiling time 50 minutes,contains,month 8,cxgn_time_ontology
+cassava green mite incidence first evaluation|month 8,contains,month 8,cxgn_time_ontology
+dry matter content percentage|month 8|mashed raw root,contains,month 8,cxgn_time_ontology
+male flower number counting on all levels|month 8,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|boiling time 40 minutes,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|boiling time 30 minutes,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|boiling time 20 minutes,contains,month 8,cxgn_time_ontology
+number of seed sown counting|month 8,contains,month 8,cxgn_time_ontology
+beta carotene content ug/g|month 8,contains,month 8,cxgn_time_ontology
+dry matter content percentage|month 8|boiled root,contains,month 8,cxgn_time_ontology
+cassava green mite severity first evaluation|month 8,contains,month 8,cxgn_time_ontology
+Cassava mosaic disease severity|month 8,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|boiling time 10 minutes,contains,month 8,cxgn_time_ontology
+Total carotenes HPLC ug/g|month 8,contains,month 8,cxgn_time_ontology
+hydrogen cyanide ug/g wet basis|month 8,contains,month 8,cxgn_time_ontology
+dry matter content percentage|month 8|raw root,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|raw root,contains,month 8,cxgn_time_ontology
+time of boiling estimation minute|month 8|boiled root,contains,month 8,cxgn_time_ontology
+Total carotenes ug/g NIRS 400-2500 nm|month 8,contains,month 8,cxgn_time_ontology
+abiotic stress trait|month 8,contains,month 8,cxgn_time_ontology
+fresh storage root weight per plant|month 8,contains,month 8,cxgn_time_ontology
+beta carotene content ug/g NIRS 400-2500 nm|month 8,contains,month 8,cxgn_time_ontology
+plant architecture visual rating 1-5|month 8,contains,month 8,cxgn_time_ontology
+plant height measurement in cm|month 8,contains,month 8,cxgn_time_ontology
+female flower evaluation visual rating|month 8,contains,month 8,cxgn_time_ontology
+male flower number counting|month 8,contains,month 8,cxgn_time_ontology
+number of fruits counting|month 8,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 8|boiling time 60 minutes,contains,month 8,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiling time 20 minutes,contains,month 9,cxgn_time_ontology
+textural characteristic end force extrusion g|month 9|boiling time 18 minutes,contains,month 9,cxgn_time_ontology
+textural characteristic gradient extrusion g/mm|month 9|boiling time 18 minutes,contains,month 9,cxgn_time_ontology
+textural characteristic linear distance extrusion mm|month 9|boiling time 18 minutes,contains,month 9,cxgn_time_ontology
+abscisic acid content of leaf ug/g|month 9,contains,month 9,cxgn_time_ontology
+abiotic stress trait|month 9,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|raw root,contains,month 9,cxgn_time_ontology
+textural characteristic max force extrusion g|month 9|boiling time 18 minutes,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiled root,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiling time 60 minutes,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiling time 50 minutes,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiling time 40 minutes,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiling time 30 minutes,contains,month 9,cxgn_time_ontology
+Change in weight after boiling computation percentage|month 9|boiling time 10 minutes,contains,month 9,cxgn_time_ontology
+dry matter content percentage|month 9|boiling time 30 minutes,contains,month 9,cxgn_time_ontology
+number of seed sown counting|month 9,contains,month 9,cxgn_time_ontology
+number of fruits counting|month 9,contains,month 9,cxgn_time_ontology
+female flower evaluation visual rating|month 9,contains,month 9,cxgn_time_ontology
+male flower number counting on all levels|month 9,contains,month 9,cxgn_time_ontology
+textural characteristic gradient extrusion g/mm|month 9|boiled root,contains,month 9,cxgn_time_ontology
+number of terminal branches with inflorescence counting|month 9,contains,month 9,cxgn_time_ontology
+dry matter content percentage|month 9|raw root,contains,month 9,cxgn_time_ontology
+time of boiling estimation minute|month 9|boiled root,contains,month 9,cxgn_time_ontology
+male flower number counting|month 9,contains,month 9,cxgn_time_ontology
+dry matter content percentage|month 9|axial root section|boiled root,contains,month 9,cxgn_time_ontology
+bemesia tabaci nymphs by counting|month 9,contains,month 9,cxgn_time_ontology
+hairiness visual observation 1-5|month 9,contains,month 9,cxgn_time_ontology
+cassava mealy bug severity by visual rating 1-5|month 9,contains,month 9,cxgn_time_ontology
+Typhlodromalus aripo : visual 1/0|month 9,contains,month 9,cxgn_time_ontology
+branching level counting|month 9,contains,month 9,cxgn_time_ontology
+bemesia tabaci nymphs yellow : counting|month 9,contains,month 9,cxgn_time_ontology
+bemesia tabaci nymphs severity : visual 1-5|month 9,contains,month 9,cxgn_time_ontology
+bemesia tabaci nymphs black : counting|month 9,contains,month 9,cxgn_time_ontology
+bemesia tabaci adult by counting|month 9,contains,month 9,cxgn_time_ontology
+dry matter content percentage|month 9|mashed raw root,contains,month 9,cxgn_time_ontology
+plant height measurement in cm|month 9,contains,month 9,cxgn_time_ontology
+textural characteristic area under curve extrusion gmm|month 9|boiling time 18 minutes,contains,month 9,cxgn_time_ontology
+textural characteristic distance at max force extrusion mm|month 9|boiling time 18 minutes,contains,month 9,cxgn_time_ontology
+Marketable root weight|proximal root section|dried root|at harvesting,contains,proximal root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root,contains,raw root,cxgn_plant_treatment
+dry matter content percentage|month 8|raw root,contains,raw root,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 10|raw root,contains,raw root,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 8|raw root,contains,raw root,cxgn_plant_treatment
+dry matter content percentage|month 7|raw root,contains,raw root,cxgn_plant_treatment
+dry matter content percentage|month 10|raw root,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root,contains,raw root,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 11|raw root,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|week 10|Root section|raw root,contains,raw root,cxgn_plant_treatment
+dry matter content percentage|month 9|raw root,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|at harvesting,contains,raw root,cxgn_plant_treatment
+dry matter content percentage|month 11|raw root,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after planting,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after planting,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after harvest,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|at harvesting,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|at harvesting,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after harvest,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after planting,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|date of,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after harvest,contains,raw root,cxgn_plant_treatment
+Change in weight after boiling computation percentage|month 9|raw root,contains,raw root,cxgn_plant_treatment
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after planting,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|after harvest,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|at harvesting,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after planting,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 15|Root section|raw root|after harvest,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|at harvesting,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after harvest,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|after planting,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 7|Root section|raw root|at harvesting,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|week 10|Root section|raw root,contains,Root section,cxgn_plant_section
+post-harvest physiological deterioration variable 0-10|day 5|Root section|raw root|date of,contains,Root section,cxgn_plant_section
+Softness of boiled cassava roots in newtons|minute 30|Two-dimension numerical first derivative across rows and columns,contains,Softness of boiled cassava roots in newtons|minute 30,composed_trait
+initial vigor assessment 1-7|Two-dimension numerical first derivative across rows and columns,contains,Two-dimension numerical first derivative across rows and columns,SGNStatistics_ontology
+Softness of boiled cassava roots in newtons|minute 30|Two-dimension numerical first derivative across rows and columns,contains,Two-dimension numerical first derivative across rows and columns,SGNStatistics_ontology
+number of fruits counting|week 10,contains,week 10,cxgn_time_ontology
+male flower number counting on all levels|week 10,contains,week 10,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|week 10|Root section|raw root,contains,week 10,cxgn_time_ontology
+female flower evaluation visual rating|week 10,contains,week 10,cxgn_time_ontology
+number of terminal branches with inflorescence counting|week 10,contains,week 10,cxgn_time_ontology
+male flower number counting|week 10,contains,week 10,cxgn_time_ontology
+fresh storage root weight per plant|week 10,contains,week 10,cxgn_time_ontology
+post-harvest physiological deterioration variable 0-10|week 10,contains,week 10,cxgn_time_ontology
+fresh storage root weight per plant|week 12,contains,week 12,cxgn_time_ontology
+fresh storage root weight per plant|week 16,contains,week 16,cxgn_time_ontology
+abiotic stress trait|week 18,contains,week 18,cxgn_time_ontology
+abscisic acid content of leaf ug/g|week 18,contains,week 18,cxgn_time_ontology
+fresh storage root weight per plant|week 20,contains,week 20,cxgn_time_ontology
+fresh storage root weight per plant|week 24,contains,week 24,cxgn_time_ontology
+Cassava green mite incidence|week 28,contains,week 28,cxgn_time_ontology
+fresh storage root weight per plant|week 28,contains,week 28,cxgn_time_ontology
+Cassava green mite severity|week 28,contains,week 28,cxgn_time_ontology
+plot volume in m3|week 29,contains,week 29,cxgn_time_ontology
+plant height per plot in m|week 29,contains,week 29,cxgn_time_ontology
+fresh storage root weight per plant|week 32,contains,week 32,cxgn_time_ontology
+weibull fit scale variable|week 33,contains,week 33,cxgn_time_ontology
+plot volume in m3|week 33,contains,week 33,cxgn_time_ontology
+weibull fit shape variable|week 33,contains,week 33,cxgn_time_ontology
+plant height per plot in m|week 33,contains,week 33,cxgn_time_ontology
+fresh storage root weight per plant|week 36,contains,week 36,cxgn_time_ontology
+weibull fit shape variable|week 38,contains,week 38,cxgn_time_ontology
+plot volume in m3|week 38,contains,week 38,cxgn_time_ontology
+plant height per plot in m|week 38,contains,week 38,cxgn_time_ontology
+weibull fit scale variable|week 38,contains,week 38,cxgn_time_ontology
+fresh storage root weight per plant|week 40,contains,week 40,cxgn_time_ontology
+fresh storage root weight per plant|week 44,contains,week 44,cxgn_time_ontology
+weibull fit scale variable|week 46,contains,week 46,cxgn_time_ontology
+weibull fit shape variable|week 46,contains,week 46,cxgn_time_ontology
+plot volume in m3|week 46,contains,week 46,cxgn_time_ontology
+plant height per plot in m|week 46,contains,week 46,cxgn_time_ontology
+fresh storage root weight per plant|week 48,contains,week 48,cxgn_time_ontology
+cassava mosaic disease severity|week 6,contains,week 6,cxgn_time_ontology
