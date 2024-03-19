@@ -2,17 +2,20 @@
 
 sql -U postgres -h db5.sgn.cornell.edu -d cxgn_batatabase -c "
 COPY (
-SELECT o.name as object, t.name as type, s.name as subject, cv.name
+SELECT o.name AS trait, t.name AS relationship, s.name AS term, p.name AS parent, cv.name AS ontology
 FROM cvterm_relationship cr
-JOIN cvterm o on (cr.object_id = o.cvterm_id)
-JOIN cvterm s on (cr.subject_id = s.cvterm_id)
-JOIN cvterm t on (cr.type_id = t.cvterm_id)
-JOIN cv on (s.cv_id = cv.cv_id)
-WHERE t.name = 'contains' AND cv.cv_id != (
+JOIN cvterm o ON (cr.object_id = o.cvterm_id)
+JOIN cvterm s ON (cr.subject_id = s.cvterm_id)
+JOIN cvterm t ON (cr.type_id = t.cvterm_id)
+JOIN cvterm_relationship pr ON (s.cvterm_id = pr.subject_id AND pr.type_id = (SELECT cvterm_id FROM cvterm WHERE name = 'is_a'))
+JOIN cvterm p ON (pr.object_id = p.cvterm_id)
+JOIN cv ON (s.cv_id = cv.cv_id)
+WHERE t.name = 'contains' AND cv.cv_id IN (
     SELECT cvprop.cv_id
     FROM cvprop
-    JOIN cvterm on(type_id = cvterm_id)
-    WHERE name = 'trait_ontology'
+    JOIN cvterm ON(type_id = cvterm_id)
+    WHERE name LIKE '%ontology'
+    AND name NOT LIKE '%trait_ontology'
 )
 ORDER BY s.name)
 To STDOUT With CSV HEADER DELIMITER ',';
@@ -22,17 +25,20 @@ To STDOUT With CSV HEADER DELIMITER ',';
 
 psql -U postgres -h db5.sgn.cornell.edu -d cxgn_yambase -c "
 COPY (
-SELECT o.name as object, t.name as type, s.name as subject, cv.name
+SELECT o.name AS trait, t.name AS relationship, s.name AS term, p.name AS parent, cv.name AS ontology
 FROM cvterm_relationship cr
-JOIN cvterm o on (cr.object_id = o.cvterm_id)
-JOIN cvterm s on (cr.subject_id = s.cvterm_id)
-JOIN cvterm t on (cr.type_id = t.cvterm_id)
-JOIN cv on (s.cv_id = cv.cv_id)
-WHERE t.name = 'contains' AND cv.cv_id != (
+JOIN cvterm o ON (cr.object_id = o.cvterm_id)
+JOIN cvterm s ON (cr.subject_id = s.cvterm_id)
+JOIN cvterm t ON (cr.type_id = t.cvterm_id)
+JOIN cvterm_relationship pr ON (s.cvterm_id = pr.subject_id AND pr.type_id = (SELECT cvterm_id FROM cvterm WHERE name = 'is_a'))
+JOIN cvterm p ON (pr.object_id = p.cvterm_id)
+JOIN cv ON (s.cv_id = cv.cv_id)
+WHERE t.name = 'contains' AND cv.cv_id IN (
     SELECT cvprop.cv_id
     FROM cvprop
-    JOIN cvterm on(type_id = cvterm_id)
-    WHERE name = 'trait_ontology'
+    JOIN cvterm ON(type_id = cvterm_id)
+    WHERE name LIKE '%ontology'
+    AND name NOT LIKE '%trait_ontology'
 )
 ORDER BY s.name)
 To STDOUT With CSV HEADER DELIMITER ',';
@@ -42,17 +48,20 @@ To STDOUT With CSV HEADER DELIMITER ',';
 
 psql -U postgres -h db5.sgn.cornell.edu -d cxgn_musabase -c "
 COPY (
-SELECT o.name as object, t.name as type, s.name as subject, cv.name
+SELECT o.name AS trait, t.name AS relationship, s.name AS term, p.name AS parent, cv.name AS ontology
 FROM cvterm_relationship cr
-JOIN cvterm o on (cr.object_id = o.cvterm_id)
-JOIN cvterm s on (cr.subject_id = s.cvterm_id)
-JOIN cvterm t on (cr.type_id = t.cvterm_id)
-JOIN cv on (s.cv_id = cv.cv_id)
-WHERE t.name = 'contains' AND cv.cv_id != (
+JOIN cvterm o ON (cr.object_id = o.cvterm_id)
+JOIN cvterm s ON (cr.subject_id = s.cvterm_id)
+JOIN cvterm t ON (cr.type_id = t.cvterm_id)
+JOIN cvterm_relationship pr ON (s.cvterm_id = pr.subject_id AND pr.type_id = (SELECT cvterm_id FROM cvterm WHERE name = 'is_a'))
+JOIN cvterm p ON (pr.object_id = p.cvterm_id)
+JOIN cv ON (s.cv_id = cv.cv_id)
+WHERE t.name = 'contains' AND cv.cv_id IN (
     SELECT cvprop.cv_id
     FROM cvprop
-    JOIN cvterm on(type_id = cvterm_id)
-    WHERE name = 'trait_ontology'
+    JOIN cvterm ON(type_id = cvterm_id)
+    WHERE name LIKE '%ontology'
+    AND name NOT LIKE '%trait_ontology'
 )
 ORDER BY s.name)
 To STDOUT With CSV HEADER DELIMITER ',';
@@ -62,17 +71,20 @@ To STDOUT With CSV HEADER DELIMITER ',';
 
 psql -U postgres -h db8.sgn.cornell.edu -d cxgn_cassava -c "
 COPY (
-SELECT o.name as object, t.name as type, s.name as subject, cv.name
+SELECT o.name AS trait, t.name AS relationship, s.name AS term, p.name AS parent, cv.name AS ontology
 FROM cvterm_relationship cr
-JOIN cvterm o on (cr.object_id = o.cvterm_id)
-JOIN cvterm s on (cr.subject_id = s.cvterm_id)
-JOIN cvterm t on (cr.type_id = t.cvterm_id)
-JOIN cv on (s.cv_id = cv.cv_id)
-WHERE t.name = 'contains' AND cv.cv_id != (
+JOIN cvterm o ON (cr.object_id = o.cvterm_id)
+JOIN cvterm s ON (cr.subject_id = s.cvterm_id)
+JOIN cvterm t ON (cr.type_id = t.cvterm_id)
+JOIN cvterm_relationship pr ON (s.cvterm_id = pr.subject_id AND pr.type_id = (SELECT cvterm_id FROM cvterm WHERE name = 'is_a'))
+JOIN cvterm p ON (pr.object_id = p.cvterm_id)
+JOIN cv ON (s.cv_id = cv.cv_id)
+WHERE t.name = 'contains' AND cv.cv_id IN (
     SELECT cvprop.cv_id
     FROM cvprop
-    JOIN cvterm on(type_id = cvterm_id)
-    WHERE name = 'trait_ontology'
+    JOIN cvterm ON(type_id = cvterm_id)
+    WHERE name LIKE '%ontology'
+    AND name NOT LIKE '%trait_ontology'
 )
 ORDER BY s.name)
 To STDOUT With CSV HEADER DELIMITER ',';
