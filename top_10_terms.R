@@ -1,7 +1,9 @@
+# Load necessary libraries
 library(dplyr)
 library(ggplot2)
 library(readr)
 library(tidyr)
+library(ggthemes)
 
 setwd("~/PersonalProjects/post-composing-paper")
 
@@ -40,9 +42,13 @@ top_terms_data <- percentage_use_within_crop %>%
 top_terms_data <- top_terms_data %>%
   mutate(term = factor(term, levels = total_percentage_use$term))
 
-# Step 5: Create a stacked barplot graph for the top 10 terms
+# Order crops
+top_terms_data$crop <- factor(top_terms_data$crop, levels = c("Cassava", "Banana", "Yam", "Sweet Potato"))
+
+# Step 5: Create a stacked barplot graph for the top 10 terms using Paul Tol's bright color scheme
 ggplot(top_terms_data, aes(x = term, y = percentage, fill = crop)) +
   geom_bar(stat = "identity", position = "stack") +
+  scale_fill_ptol() +  # Apply Paul Tol's bright color scheme
   labs(title = "Top 10 Terms by Percent Usage in Composed Traits Across Databases",
        x = "Composable Term",
        y = "Percentage Usage (%)",
@@ -61,9 +67,13 @@ data_for_plot <- all_crops %>%
   ungroup() %>%
   select(crop, ontology, percentage)
 
-# Step 7: Create a stacked barplot showing percentage of terms
+# Order crops
+data_for_plot$crop <- factor(data_for_plot$crop, levels = c("Cassava", "Banana", "Yam", "Sweet Potato"))
+
+# Step 7: Create a stacked barplot showing percentage of terms using Paul Tol's bright color scheme
 ggplot(data_for_plot, aes(x = crop, y = percentage, fill = ontology)) +
   geom_bar(stat = "identity", position = "fill") + # Use position="fill" for percentage stack
+  scale_fill_ptol() +  # Apply Paul Tol's bright color scheme
   scale_y_continuous(labels = scales::percent_format()) + # Format y-axis as percentage
   labs(title = "Orthogonal Ontology Usage by Crop",
        x = "Crop",
