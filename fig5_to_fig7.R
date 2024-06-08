@@ -104,7 +104,7 @@ fig6_plot <- ggplot(plot_data, aes(x = database_objects, y = percentage / 100, f
   labs(x = "Database objects",
        y = "Percentage usage (%) ",
        fill = "different crops") +
-  theme_minimal() +
+  theme_few() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
         legend.position = "right")
 
@@ -156,7 +156,7 @@ fig7_plot <- ggplot(plot_data, aes(x = trial_type_name, y = percentage / 100, fi
   labs(x = "Trial types",
        y = "Percentage usage(%) ",
        fill = "unique crops") +
-  theme_minimal() +
+  theme_few() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
         legend.position = "right")
 
