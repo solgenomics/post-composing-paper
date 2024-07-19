@@ -1,8 +1,9 @@
 ##Here are the queries for the Database objects table 
 
 ### head
--- Total Number of post composed traits
+-- Total Number of post composed traits / pre-composed traits 
 select count(*) from traits t where trait_name like '%COMP%';
+select count(*) from traits t where trait_name like '%CO_334%';
 
 -- Total of trials with post composed traits
 select count(distinct(trial_id)) from traitsxtrials where trait_id in (select trait_id from traits where trait_name like '%COMP%');
