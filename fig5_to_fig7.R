@@ -53,7 +53,8 @@ fig5_plot <- ggplot(plot_data, aes(x = Crop, y = percentage / 100,  fill = trait
        fill = "trial type") +
   theme_few() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
-        legend.position = "right") +
+        legend.position = "right",
+        legend.title = element_blank()) +
   scale_x_discrete(limits = levels(plot_data$Crop))
 
 print(fig5_plot)
